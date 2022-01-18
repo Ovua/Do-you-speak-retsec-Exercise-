@@ -1,9 +1,10 @@
-TDD with rspec
+## TDD with Rspec
 
-Exercise From: 
+## Exercise From: 
 https://www.codewars.com/kata/5516ab668915478845000780/train/ruby
 
-Do you speak retsec?
+
+## Do you speak retsec?
 
 You and your friends want to play undercover agents. In order to exchange your secret messages, you've come up with the following system: you take the word, cut it in half, and place the first half behind the latter. If the word has an uneven number of characters, you leave the middle at its previous place:
 
@@ -22,9 +23,9 @@ reverse_by_center("agent")   == "nteag"  # center character is "e"
 Remarks
 Don't use this to actually exchange messages in private.
 
-TEST: 
-ona@NobodyHere:~/Desktop/Do you speak retsec?
-$ rspec
-...
-Finished in 0.00306 seconds (files took 0.10787 seconds to load)
-2 examples, 0 failures
+## TEST: 
+`ona@NobodyHere:~/Desktop/Do you speak retsec?`</br>
+`$ rspec`</br>
+`...`</br>
+`Finished in 0.00306 seconds (files took 0.10787 seconds to load)`</br>
+`2 examples, 0 failures`
